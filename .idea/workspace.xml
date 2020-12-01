@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f520755-ec98-4652-8075-dd31f724df8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="Thymeleaf HTML file" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y4cFRgNZVCTMa0LJkx2pLeT6Xw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575580049565" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../2de jaar/Windows Server Essentials/project CI-CD/De_Smet_Wouter_r0785520_Supermarkt" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\elspe\OneDrive\Documents\ITFactory\2019-2020\Java\start miniproject\versie12mrt\Familienaam_Voornaam_ studentnummer_Supermarkt\src\main\resources\static\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\u0068237\Desktop\Java project\src\main\resources\static\img" />
+      <recent name="C:\Users\u0068237\Desktop\Familienaam_Voornaam_ studentnummer_Supermarkt_v23 maart\src\main\resources\static\img" />
+      <recent name="C:\Users\u0068237\Desktop\Familienaam_Voornaam_ studentnummer_Supermarkt_v16 maart\src\main\resources\templates" />
+      <recent name="C:\Users\elspe\OneDrive\Documents\ITFactory\2019-2020\Java\start miniproject\versie12mrt\Familienaam_Voornaam_ studentnummer_Supermarkt\src\main\resources\templates" />
+      <recent name="C:\Users\elspe\OneDrive\Documents\ITFactory\2019-2020\Java\start miniproject\voorstel voor deel1 zonder opslag - Els - 5mrt\Familienaam_Voornaam_ studentnummer_Supermarkt\src\main\resources\templates" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fact.it.pretparkproject.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.fact.it.supermarktproject in supermarkt-project">
+    <configuration name="AfdelingTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="startmap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fact.it.supermarktproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fact.it.supermarktproject" />
+      <option name="MAIN_CLASS_NAME" value="fact.it.supermarktproject.AfdelingTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KlantTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="startmap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fact.it.supermarktproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fact.it.supermarktproject" />
+      <option name="MAIN_CLASS_NAME" value="fact.it.supermarktproject.KlantTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersoneelslidTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="startmap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fact.it.supermarktproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fact.it.supermarktproject" />
+      <option name="MAIN_CLASS_NAME" value="fact.it.supermarktproject.PersoneelslidTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersoonTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="startmap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fact.it.supermarktproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fact.it.supermarktproject" />
+      <option name="MAIN_CLASS_NAME" value="fact.it.supermarktproject.PersoonTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupermarktTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="startmap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fact.it.supermarktproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fact.it.supermarktproject" />
+      <option name="MAIN_CLASS_NAME" value="fact.it.supermarktproject.SupermarktTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fact.it.supermarktproject in supermarkt-project" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="startmap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fact.it.supermarktproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fact.it.supermarktproject" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupermarktProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="startmap" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="fact.it.supermarktproject.SupermarktProjectApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.fact.it.supermarktproject in supermarkt-project" />
+      <item itemvalue="JUnit.KlantTests" />
+      <item itemvalue="JUnit.PersoonTests" />
+      <item itemvalue="JUnit.PersoneelslidTests" />
+      <item itemvalue="JUnit.SupermarktTests" />
+      <item itemvalue="JUnit.AfdelingTests" />
+      <item itemvalue="Spring Boot.SupermarktProjectApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersoneelslidTests" />
+        <item itemvalue="JUnit.AfdelingTests" />
+        <item itemvalue="JUnit.SupermarktTests" />
+        <item itemvalue="JUnit.KlantTests" />
+        <item itemvalue="JUnit.PersoonTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="user defined" created="1584097560310" text="niet.jpg" recursive="true" caseInsensitive="true" type="JAVA" pattern_context="default" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f520755-ec98-4652-8075-dd31f724df8e" name="Default Changelist" comment="" />
+      <created>1575505022383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575505022383</updated>
+      <workItem from="1575505025021" duration="26931000" />
+      <workItem from="1582205204559" duration="2359000" />
+      <workItem from="1582648982948" duration="8180000" />
+      <workItem from="1582670097649" duration="2131000" />
+      <workItem from="1582733123102" duration="1285000" />
+      <workItem from="1583067159376" duration="1463000" />
+      <workItem from="1583425213660" duration="1475000" />
+      <workItem from="1583438283810" duration="5084000" />
+      <workItem from="1583738782088" duration="1124000" />
+      <workItem from="1584027930271" duration="9336000" />
+      <workItem from="1584088809367" duration="3775000" />
+      <workItem from="1584096381003" duration="6291000" />
+      <workItem from="1584162314884" duration="10668000" />
+      <workItem from="1584278408397" duration="6650000" />
+      <workItem from="1584353617954" duration="1185000" />
+      <workItem from="1584374492106" duration="1259000" />
+      <workItem from="1584435970625" duration="10426000" />
+      <workItem from="1584712353414" duration="4624000" />
+      <workItem from="1584949931154" duration="2828000" />
+      <workItem from="1585037863894" duration="589000" />
+      <workItem from="1585038477870" duration="377000" />
+      <workItem from="1585038916743" duration="102000" />
+      <workItem from="1585039063573" duration="40000" />
+      <workItem from="1585039217425" duration="122000" />
+      <workItem from="1585039365940" duration="1981000" />
+      <workItem from="1585044042160" duration="388000" />
+      <workItem from="1585063611734" duration="171000" />
+      <workItem from="1585064018997" duration="466000" />
+      <workItem from="1585121271634" duration="55000" />
+      <workItem from="1585208866361" duration="24000" />
+      <workItem from="1585430464486" duration="232000" />
+      <workItem from="1586513164572" duration="2982000" />
+      <workItem from="1587370662333" duration="14734000" />
+      <workItem from="1588337670715" duration="14923000" />
+      <workItem from="1588427439760" duration="61878000" />
+      <workItem from="1589127911727" duration="9243000" />
+      <workItem from="1589203090988" duration="604000" />
+      <workItem from="1589444244475" duration="16000" />
+      <workItem from="1589625874783" duration="3449000" />
+      <workItem from="1589629889154" duration="381000" />
+      <workItem from="1589710651388" duration="6000" />
+      <workItem from="1591174588952" duration="601000" />
+      <workItem from="1591203765583" duration="680000" />
+      <workItem from="1591282546290" duration="39000" />
+      <workItem from="1591299129282" duration="745000" />
+      <workItem from="1591300367756" duration="5778000" />
+      <workItem from="1591341220173" duration="2659000" />
+      <workItem from="1591344243159" duration="1786000" />
+      <workItem from="1603979198474" duration="641000" />
+      <workItem from="1604231567464" duration="54000" />
+      <workItem from="1606732119740" duration="1790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1606742879977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606742879977" />
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1606742883448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606742883448" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1606742883448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606742883448" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1606742883448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606742883448" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1606742883448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606742883448" />
+    <state width="1493" height="206" key="GridCell.Tab.1.bottom" timestamp="1606742883443">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606742883443" />
+    <state width="1493" height="206" key="GridCell.Tab.1.center" timestamp="1606742883443">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606742883443" />
+    <state width="1493" height="206" key="GridCell.Tab.1.left" timestamp="1606742883443">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606742883443" />
+    <state width="1493" height="206" key="GridCell.Tab.1.right" timestamp="1606742883443">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606742883443" />
+    <state x="227" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1606732214679">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="227" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1606732214679" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Familienaam_Voornaam__studentnummer_Supermarkt$SupermarktProjectApplication.ic" NAME="SupermarktProjectApplication Coverage Results" MODIFIED="1584047888466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Familienaam_Voornaam__studentnummer_Supermarkt$All_in_supermarkt_project.ic" NAME="All in supermarkt-project Coverage Results" MODIFIED="1583442910103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

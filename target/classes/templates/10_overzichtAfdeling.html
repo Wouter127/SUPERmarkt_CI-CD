@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="nl" xmlns:th="http://www.thymeleaf.org">
+<!--Wouter De Smet -->
+<!--r0785520-->
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="img/style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;600;900&display=swap" rel="stylesheet">
+    <title>| Overzicht afdelingen | Project SUPERmarkt</title>
+</head>
+<body>
+<header><h1>Overzicht afdelingen</h1></header>
+<div class="container">
+    <h3 th:text="'Dit zijn de afdelingen van supermarkt ' + ${supermarkt.getNaam()}"></h3>
+    <ol>
+        <li th:each="afdeling : ${afdelingen}">
+            <p th:if="${afdeling.isGekoeld()}" th:text="${afdeling.getNaam()} + ' - Gekoelde afdeling'"></p>
+            <p th:unless="${afdeling.isGekoeld()}" th:text="${afdeling.getNaam()} + ' - Geen koeling'"></p>
+            <p th:text="'Verantwoordelijke: ' + ${afdeling.getVerantwoordelijke().getVoornaam()} + ' ' + ${afdeling.getVerantwoordelijke().getFamilienaam()}"></p>
+            <img onerror="this.src='img/niet.jpg'" th:src="@{${afdeling.getFoto()}}"/>
+        </li>
+    </ol>
+    <p><a href="/">Ga terug naar de beginpagina</a></p>
+</div>
+<footer><p>Wouter De Smet uit 1ITFA2 (R0785520), ThomasMore Geel</p></footer>
+</body>
+</html>
