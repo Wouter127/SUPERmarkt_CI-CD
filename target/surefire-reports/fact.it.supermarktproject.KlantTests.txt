@@ -1,4 +1,39 @@
 -------------------------------------------------------------------------------
 Test set: fact.it.supermarktproject.KlantTests
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.02 s - in fact.it.supermarktproject.KlantTests
+Tests run: 7, Failures: 0, Errors: 7, Skipped: 0, Time elapsed: 1.212 s <<< FAILURE! - in fact.it.supermarktproject.KlantTests
+testBoodschappenlijstMax15  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mainController': Invocation of init method failed; nested exception is java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
+testConstructorEnGetters  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mainController': Invocation of init method failed; nested exception is java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
+testToString  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mainController': Invocation of init method failed; nested exception is java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
+testSetFamilienaam  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mainController': Invocation of init method failed; nested exception is java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
+testSetVoornaam  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mainController': Invocation of init method failed; nested exception is java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
+testSetPretparkcode  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mainController': Invocation of init method failed; nested exception is java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
+testBoodschappenlijstBasics  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mainController': Invocation of init method failed; nested exception is java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+

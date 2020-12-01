@@ -1,4 +1,29 @@
 -------------------------------------------------------------------------------
 Test set: fact.it.supermarktproject.SupermarktTests
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.025 s - in fact.it.supermarktproject.SupermarktTests
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.691 s <<< FAILURE! - in fact.it.supermarktproject.SupermarktTests
+testConstructorEnGetters  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mainController': Invocation of init method failed; nested exception is java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
+testZoekAfdelingOpNaam  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mainController': Invocation of init method failed; nested exception is java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
+testSetNaam  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mainController': Invocation of init method failed; nested exception is java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
+checkToevoegenAfdelingenEnOphalenAantal  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mainController': Invocation of init method failed; nested exception is java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
+testRegistreerKlant  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mainController': Invocation of init method failed; nested exception is java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
