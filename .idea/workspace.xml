@@ -85,7 +85,7 @@
       <recent name="fact.it.pretparkproject.model" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.fact.it.supermarktproject in supermarkt-project">
+  <component name="RunManager" selected="JAR Application.supermarkt-project-0.0.1-SNAPSHOT.jar">
     <configuration name="AfdelingTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="startmap" />
       <extension name="coverage">
@@ -131,21 +131,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersoonTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="startmap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fact.it.supermarktproject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="fact.it.supermarktproject" />
-      <option name="MAIN_CLASS_NAME" value="fact.it.supermarktproject.PersoonTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SupermarktTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="startmap" />
       <extension name="coverage">
@@ -175,6 +160,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="supermarkt-project-0.0.1-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/supermarkt-project-0.0.1-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
     <configuration name="SupermarktProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="startmap" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="fact.it.supermarktproject.SupermarktProjectApplication" />
@@ -186,19 +175,19 @@
     <list>
       <item itemvalue="JUnit.fact.it.supermarktproject in supermarkt-project" />
       <item itemvalue="JUnit.KlantTests" />
-      <item itemvalue="JUnit.PersoonTests" />
       <item itemvalue="JUnit.PersoneelslidTests" />
       <item itemvalue="JUnit.SupermarktTests" />
       <item itemvalue="JUnit.AfdelingTests" />
       <item itemvalue="Spring Boot.SupermarktProjectApplication" />
+      <item itemvalue="JAR Application.supermarkt-project-0.0.1-SNAPSHOT.jar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JAR Application.supermarkt-project-0.0.1-SNAPSHOT.jar" />
         <item itemvalue="JUnit.PersoneelslidTests" />
         <item itemvalue="JUnit.AfdelingTests" />
         <item itemvalue="JUnit.SupermarktTests" />
         <item itemvalue="JUnit.KlantTests" />
-        <item itemvalue="JUnit.PersoonTests" />
       </list>
     </recent_temporary>
   </component>
@@ -287,46 +276,50 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="152" y="104" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1606860989015">
+    <state x="0" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606863716056">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="152" y="104" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1606860989015" />
+    <state x="0" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606863716056" />
+    <state x="152" y="104" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1606863522185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="152" y="104" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1606863522185" />
     <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1606742879977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606742879977" />
-    <state width="978" height="203" key="GridCell.Tab.0.bottom" timestamp="1606862637001">
+    <state width="978" height="203" key="GridCell.Tab.0.bottom" timestamp="1606863020540">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="978" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606862637001" />
-    <state width="978" height="203" key="GridCell.Tab.0.center" timestamp="1606862637001">
+    <state width="978" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606863020540" />
+    <state width="978" height="203" key="GridCell.Tab.0.center" timestamp="1606863020539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="978" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606862637001" />
-    <state width="978" height="203" key="GridCell.Tab.0.left" timestamp="1606862637001">
+    <state width="978" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606863020539" />
+    <state width="978" height="203" key="GridCell.Tab.0.left" timestamp="1606863020539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="978" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606862637001" />
-    <state width="978" height="203" key="GridCell.Tab.0.right" timestamp="1606862637001">
+    <state width="978" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606863020539" />
+    <state width="978" height="203" key="GridCell.Tab.0.right" timestamp="1606863020540">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="978" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606862637001" />
-    <state width="978" height="203" key="GridCell.Tab.1.bottom" timestamp="1606862637006">
+    <state width="978" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606863020540" />
+    <state width="978" height="203" key="GridCell.Tab.1.bottom" timestamp="1606862972994">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="978" height="203" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606862637006" />
-    <state width="978" height="203" key="GridCell.Tab.1.center" timestamp="1606862637004">
+    <state width="978" height="203" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606862972994" />
+    <state width="978" height="203" key="GridCell.Tab.1.center" timestamp="1606862972993">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="978" height="203" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606862637004" />
-    <state width="978" height="203" key="GridCell.Tab.1.left" timestamp="1606862637002">
+    <state width="978" height="203" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606862972993" />
+    <state width="978" height="203" key="GridCell.Tab.1.left" timestamp="1606862972993">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="978" height="203" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606862637002" />
-    <state width="978" height="203" key="GridCell.Tab.1.right" timestamp="1606862637005">
+    <state width="978" height="203" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606862972993" />
+    <state width="978" height="203" key="GridCell.Tab.1.right" timestamp="1606862972994">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="978" height="203" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606862637005" />
+    <state width="978" height="203" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606862972994" />
     <state x="29" y="58" key="SettingsEditor" timestamp="1606862626259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
