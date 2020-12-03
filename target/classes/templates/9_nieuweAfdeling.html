@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="nl" xmlns:th="http://www.thymeleaf.org">
+<!--Wouter De Smet -->
+<!--r0785520-->
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="img/style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;600;900&display=swap" rel="stylesheet">
+    <title>| Nieuwe afdeling | Project SUPERmarkt</title>
+</head>
+<body>
+<header><h1>Nieuwe afdeling</h1></header>
+<div class="container">
+    <form action="/10_overzichtAfdeling_toevoegen">
+        <p>
+            <label for="naam">Naam:</label>
+            <input id="naam" name="naam" type="text"  placeholder="bv. Drank">
+        </p>
+        <p>
+            <label for="foto">Foto:</label>
+            <input id="foto" name="foto" type="text" placeholder="/img/drank.jpg">
+        </p>
+        <p>
+            <label for="gekoeld">gekoeld</label>
+            <input id="gekoeld" type="checkbox">
+        </p>
+        <p>
+            <select name="verantwoordelijke" id="verantwoordelijke">
+                <option value="-1">Wie is de verantwoordelijke voor deze afdeling?</option>
+                <option th:each="personeelslid : ${personeelsleden}"
+                        th:text="${personeelslid.getVoornaam() + ' ' + personeelslid.getFamilienaam()}"
+                        th:value="${personeelslidStat.index}"></option>
+            </select>
+        </p>
+        <p>
+            <select name="supermarkt" id="supermarkt">
+                <option value="-1">Aan welke supermarkt wil je deze afdeling toevoegen?</option>
+                <option th:each="supermarkt : ${supermarkten}"
+                        th:text="${supermarkt.getNaam()}"
+                        th:value="${supermarktStat.index}"></option>
+            </select>
+        </p>
+        <p>
+            <input name="registreerAfdeling" type="submit" value="Maak afdeling">
+        </p>
+    </form>
+    <p><a href="/">Ga terug naar de beginpagina</a></p>
+</div>
+<footer><p>Wouter De Smet uit 1ITFA2 (R0785520), ThomasMore Geel</p></footer>
+</body>
+</html>
