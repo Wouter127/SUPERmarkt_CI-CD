@@ -40,7 +40,7 @@ public class Persoon {
     }
 
     public String toString(){
-        return getFamilienaam().toUpperCase() + " " + getVoornaam();
+        return getFamilienaam().toUpperCase(); //+ " " + getVoornaam();
     }
 
 }
